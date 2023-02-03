@@ -14,11 +14,11 @@ Console.WriteLine("Введите третье число:");
 string numberThreeStr = Console.ReadLine();
 int numberThree = Convert.ToInt32(numberThreeStr);
 
-if (numberOne > numberTwo);
+if (numberOne > numberTwo)
 {
 Console.WriteLine($"Число {numberOne} больше других");
 }
-    if (numberTwo > numberOne);
+    if (numberTwo > numberOne)
     {
     Console.WriteLine($"Число {numberTwo} больше других");
     }
